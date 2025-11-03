@@ -1,0 +1,25 @@
+﻿Sum of REVENUE,Column Labels,,,,,,,,,,,,,,
+Row Labels,Astoria,Hell's Kitchen,Lower Manhattan,(blank),Grand Total,% Best Seller,,,,,,,,,
+Barista Espresso, 27 935 , 32 420 , 31 051 ,, 91 406 ,16.6%,,,,,,,,Product_Type,% Best Seller
+Brewed Black tea, 16 141 , 15 576 , 16 216 ,, 47 932 ,8.7%,,,,,,,,Barista Espresso,17%
+Brewed Chai tea, 27 428 , 25 645 , 24 009 ,, 77 082 ,14.0%,,,,,,,,Brewed Black tea,9%
+Brewed herbal tea, 16 282 , 15 263 , 15 995 ,, 47 540 ,8.6%,,,,,,,,Brewed Chai tea,14%
+Drip coffee, 11 417 , 10 751 , 9 817 ,, 31 984 ,5.8%,,,,,,,,Brewed herbal tea,9%
+Gourmet brewed coffee, 23 823 , 23 010 , 23 201 ,, 70 035 ,12.7%,,,,,,,,Drip coffee,6%
+Hot chocolate, 26 335 , 23 586 , 22 495 ,, 72 416 ,13.1%,,,,,,,,Gourmet brewed coffee,13%
+Organic brewed coffee, 12 623 , 13 114 , 12 009 ,, 37 747 ,6.8%,,,,,,,,Hot chocolate,13%
+Premium brewed coffee, 13 946 , 11 928 , 12 907 ,, 38 781 ,7.0%,,,,,,,,Organic brewed coffee,7%
+Scone, 11 630 , 12 576 , 12 661 ,, 36 866 ,6.7%,,,,,,,,Premium brewed coffee,7%
+Grand Total,187560.2,183868.4,180359.42,,551788.02,,,,,,,,,Scone,7%
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Product_Type,% Best Seller
+,,,,,,,,,,,,,,Barista Espresso,16.6%
+,,,,,,,,,,,,,,Brewed Chai tea,14.0%
+,,,,,,,,,,,,,,Gourmet brewed coffee,12.7%
+,,,,,,,,,,,,,,Hot chocolate,13.1%
+,,,,,,,,,,,,,,Brewed Black tea,9%
+,,,,,,,,,,,,,,Brewed herbal tea,9%
+,,,,,,,,,,,,,,Organic brewed coffee,7%
+,,,,,,,,,,,,,,Premium brewed coffee,7%
+,,,,,,,,,,,,,,Scone,7%
+,,,,,,,,,,,,,,Drip coffee,6%
